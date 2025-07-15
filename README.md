@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Charity Donation System
 
 A web-based charity donation system that allows users to make donations and view recent contributions.
@@ -40,4 +40,4 @@ python app.py
 =======
 # charity_donation_system
 A simple DBMS project which stores all the details of donor,donated amount and for the cause for which they are donating.
->>>>>>> e1ac62bf5d702601ec392313faa2792409a81d1a
+
